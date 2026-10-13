@@ -1,0 +1,14 @@
+# Compilation Java
+*.class
+target/
+build/
+out/
+bin/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
